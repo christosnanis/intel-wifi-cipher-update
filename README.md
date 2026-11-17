@@ -1,5 +1,5 @@
 # intel-wifi-cipher-update
-A simple C shim to harden intel wifi security from their DES/DES3 defaults to stronger OS-supported cipher suites
+A simple C shim to harden intel wifi security from their DES/DES3 defaults to stronger OS-supported cipher suites (for iwd standalone - no NetworkManager!!)
 
 ## Instructions:
 #### check ell version and config
